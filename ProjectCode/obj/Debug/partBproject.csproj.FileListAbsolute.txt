@@ -1,0 +1,32 @@
+C:\Users\gilbito\source\repos\partBproject\partBproject\bin\Debug\partBproject.exe.config
+C:\Users\gilbito\source\repos\partBproject\partBproject\bin\Debug\partBproject.exe
+C:\Users\gilbito\source\repos\partBproject\partBproject\bin\Debug\partBproject.pdb
+C:\Users\gilbito\source\repos\partBproject\partBproject\obj\Debug\partBproject.csprojResolveAssemblyReference.cache
+C:\Users\gilbito\source\repos\partBproject\partBproject\obj\Debug\partBproject.Properties.Resources.resources
+C:\Users\gilbito\source\repos\partBproject\partBproject\obj\Debug\partBproject.csproj.GenerateResource.Cache
+C:\Users\gilbito\source\repos\partBproject\partBproject\obj\Debug\partBproject.csproj.CoreCompileInputs.cache
+C:\Users\gilbito\source\repos\partBproject\partBproject\obj\Debug\partBproject.exe
+C:\Users\gilbito\source\repos\partBproject\partBproject\obj\Debug\partBproject.pdb
+C:\Users\gilbito\source\repos\partBproject\partBproject\obj\Debug\partBproject.Form1.resources
+C:\Users\astar\Downloads\partBproject Updated12.06 1440-20220612T114101Z-001\partBproject Updated12.06 1440\partBproject\bin\Debug\partBproject.exe.config
+C:\Users\astar\Downloads\partBproject Updated12.06 1440-20220612T114101Z-001\partBproject Updated12.06 1440\partBproject\bin\Debug\partBproject.exe
+C:\Users\astar\Downloads\partBproject Updated12.06 1440-20220612T114101Z-001\partBproject Updated12.06 1440\partBproject\bin\Debug\partBproject.pdb
+C:\Users\astar\Downloads\partBproject Updated12.06 1440-20220612T114101Z-001\partBproject Updated12.06 1440\partBproject\obj\Debug\partBproject.csprojResolveAssemblyReference.cache
+C:\Users\astar\Downloads\partBproject Updated12.06 1440-20220612T114101Z-001\partBproject Updated12.06 1440\partBproject\obj\Debug\partBproject.Properties.Resources.resources
+C:\Users\astar\Downloads\partBproject Updated12.06 1440-20220612T114101Z-001\partBproject Updated12.06 1440\partBproject\obj\Debug\partBproject.csproj.GenerateResource.Cache
+C:\Users\astar\Downloads\partBproject Updated12.06 1440-20220612T114101Z-001\partBproject Updated12.06 1440\partBproject\obj\Debug\partBproject.csproj.CoreCompileInputs.cache
+C:\Users\astar\Downloads\partBproject Updated12.06 1440-20220612T114101Z-001\partBproject Updated12.06 1440\partBproject\obj\Debug\partBproject.exe
+C:\Users\astar\Downloads\partBproject Updated12.06 1440-20220612T114101Z-001\partBproject Updated12.06 1440\partBproject\obj\Debug\partBproject.pdb
+C:\Users\astar\Downloads\partBproject Updated12.06 1440-20220612T114101Z-001\partBproject Updated12.06 1440\partBproject\obj\Debug\partBproject.HomePage.resources
+C:\Users\astar\Downloads\partBproject Updated12.06 1440-20220612T114101Z-001\partBproject Updated12.06 1440\partBproject\obj\Debug\partBproject.Login.resources
+C:\Users\astar\Downloads\rr\partBproject Updated12.06 1440\partBproject Updated12.06 1440-20220612T114101Z-001\partBproject Updated12.06 1440\partBproject\bin\Debug\partBproject.exe.config
+C:\Users\astar\Downloads\rr\partBproject Updated12.06 1440\partBproject Updated12.06 1440-20220612T114101Z-001\partBproject Updated12.06 1440\partBproject\bin\Debug\partBproject.exe
+C:\Users\astar\Downloads\rr\partBproject Updated12.06 1440\partBproject Updated12.06 1440-20220612T114101Z-001\partBproject Updated12.06 1440\partBproject\bin\Debug\partBproject.pdb
+C:\Users\astar\Downloads\rr\partBproject Updated12.06 1440\partBproject Updated12.06 1440-20220612T114101Z-001\partBproject Updated12.06 1440\partBproject\obj\Debug\partBproject.csprojResolveAssemblyReference.cache
+C:\Users\astar\Downloads\rr\partBproject Updated12.06 1440\partBproject Updated12.06 1440-20220612T114101Z-001\partBproject Updated12.06 1440\partBproject\obj\Debug\partBproject.HomePage.resources
+C:\Users\astar\Downloads\rr\partBproject Updated12.06 1440\partBproject Updated12.06 1440-20220612T114101Z-001\partBproject Updated12.06 1440\partBproject\obj\Debug\partBproject.Login.resources
+C:\Users\astar\Downloads\rr\partBproject Updated12.06 1440\partBproject Updated12.06 1440-20220612T114101Z-001\partBproject Updated12.06 1440\partBproject\obj\Debug\partBproject.Properties.Resources.resources
+C:\Users\astar\Downloads\rr\partBproject Updated12.06 1440\partBproject Updated12.06 1440-20220612T114101Z-001\partBproject Updated12.06 1440\partBproject\obj\Debug\partBproject.csproj.GenerateResource.Cache
+C:\Users\astar\Downloads\rr\partBproject Updated12.06 1440\partBproject Updated12.06 1440-20220612T114101Z-001\partBproject Updated12.06 1440\partBproject\obj\Debug\partBproject.csproj.CoreCompileInputs.cache
+C:\Users\astar\Downloads\rr\partBproject Updated12.06 1440\partBproject Updated12.06 1440-20220612T114101Z-001\partBproject Updated12.06 1440\partBproject\obj\Debug\partBproject.exe
+C:\Users\astar\Downloads\rr\partBproject Updated12.06 1440\partBproject Updated12.06 1440-20220612T114101Z-001\partBproject Updated12.06 1440\partBproject\obj\Debug\partBproject.pdb

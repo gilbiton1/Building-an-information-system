@@ -1,0 +1,305 @@
+C:\Users\gilbito\Downloads\update12.06_21.00-20220613T061103Z-001\13.06 09.00\partBproject\bin\Debug\partBproject.exe.config
+C:\Users\gilbito\Downloads\update12.06_21.00-20220613T061103Z-001\13.06 09.00\partBproject\bin\Debug\partBproject.exe
+C:\Users\gilbito\Downloads\update12.06_21.00-20220613T061103Z-001\13.06 09.00\partBproject\bin\Debug\partBproject.pdb
+C:\Users\gilbito\Downloads\update12.06_21.00-20220613T061103Z-001\13.06 09.00\partBproject\obj\Debug\last12.06_2000.csprojResolveAssemblyReference.cache
+C:\Users\gilbito\Downloads\update12.06_21.00-20220613T061103Z-001\13.06 09.00\partBproject\obj\Debug\partBproject.createContact.resources
+C:\Users\gilbito\Downloads\update12.06_21.00-20220613T061103Z-001\13.06 09.00\partBproject\obj\Debug\partBproject.createProject.resources
+C:\Users\gilbito\Downloads\update12.06_21.00-20220613T061103Z-001\13.06 09.00\partBproject\obj\Debug\partBproject.EnterMeetingTimes.resources
+C:\Users\gilbito\Downloads\update12.06_21.00-20220613T061103Z-001\13.06 09.00\partBproject\obj\Debug\partBproject.HomePage.resources
+C:\Users\gilbito\Downloads\update12.06_21.00-20220613T061103Z-001\13.06 09.00\partBproject\obj\Debug\partBproject.Login.resources
+C:\Users\gilbito\Downloads\update12.06_21.00-20220613T061103Z-001\13.06 09.00\partBproject\obj\Debug\partBproject.Properties.Resources.resources
+C:\Users\gilbito\Downloads\update12.06_21.00-20220613T061103Z-001\13.06 09.00\partBproject\obj\Debug\partBproject.ScheduleMeeting.resources
+C:\Users\gilbito\Downloads\update12.06_21.00-20220613T061103Z-001\13.06 09.00\partBproject\obj\Debug\partBproject.UploadCustomerRequset.resources
+C:\Users\gilbito\Downloads\update12.06_21.00-20220613T061103Z-001\13.06 09.00\partBproject\obj\Debug\last12.06_2000.csproj.GenerateResource.Cache
+C:\Users\gilbito\Downloads\update12.06_21.00-20220613T061103Z-001\13.06 09.00\partBproject\obj\Debug\last12.06_2000.csproj.CoreCompileInputs.cache
+C:\Users\gilbito\Downloads\update12.06_21.00-20220613T061103Z-001\13.06 09.00\partBproject\obj\Debug\partBproject.exe
+C:\Users\gilbito\Downloads\update12.06_21.00-20220613T061103Z-001\13.06 09.00\partBproject\obj\Debug\partBproject.pdb
+C:\Users\gilbito\Downloads\update12.06_21.00-20220613T061103Z-001\13.06 13.00 Gil\partBproject\bin\Debug\partBproject.exe.config
+C:\Users\gilbito\Downloads\update12.06_21.00-20220613T061103Z-001\13.06 13.00 Gil\partBproject\bin\Debug\partBproject.exe
+C:\Users\gilbito\Downloads\update12.06_21.00-20220613T061103Z-001\13.06 13.00 Gil\partBproject\bin\Debug\partBproject.pdb
+C:\Users\gilbito\Downloads\update12.06_21.00-20220613T061103Z-001\13.06 13.00 Gil\partBproject\obj\Debug\last12.06_2000.csprojResolveAssemblyReference.cache
+C:\Users\gilbito\Downloads\update12.06_21.00-20220613T061103Z-001\13.06 13.00 Gil\partBproject\obj\Debug\partBproject.createContact.resources
+C:\Users\gilbito\Downloads\update12.06_21.00-20220613T061103Z-001\13.06 13.00 Gil\partBproject\obj\Debug\partBproject.createProject.resources
+C:\Users\gilbito\Downloads\update12.06_21.00-20220613T061103Z-001\13.06 13.00 Gil\partBproject\obj\Debug\partBproject.EnterMeetingTimes.resources
+C:\Users\gilbito\Downloads\update12.06_21.00-20220613T061103Z-001\13.06 13.00 Gil\partBproject\obj\Debug\partBproject.HomePage.resources
+C:\Users\gilbito\Downloads\update12.06_21.00-20220613T061103Z-001\13.06 13.00 Gil\partBproject\obj\Debug\partBproject.Login.resources
+C:\Users\gilbito\Downloads\update12.06_21.00-20220613T061103Z-001\13.06 13.00 Gil\partBproject\obj\Debug\partBproject.Properties.Resources.resources
+C:\Users\gilbito\Downloads\update12.06_21.00-20220613T061103Z-001\13.06 13.00 Gil\partBproject\obj\Debug\partBproject.ScheduleMeeting.resources
+C:\Users\gilbito\Downloads\update12.06_21.00-20220613T061103Z-001\13.06 13.00 Gil\partBproject\obj\Debug\partBproject.UploadCustomerRequset.resources
+C:\Users\gilbito\Downloads\update12.06_21.00-20220613T061103Z-001\13.06 13.00 Gil\partBproject\obj\Debug\last12.06_2000.csproj.GenerateResource.Cache
+C:\Users\gilbito\Downloads\update12.06_21.00-20220613T061103Z-001\13.06 13.00 Gil\partBproject\obj\Debug\last12.06_2000.csproj.CoreCompileInputs.cache
+C:\Users\gilbito\Downloads\update12.06_21.00-20220613T061103Z-001\13.06 13.00 Gil\partBproject\obj\Debug\partBproject.exe
+C:\Users\gilbito\Downloads\update12.06_21.00-20220613T061103Z-001\13.06 13.00 Gil\partBproject\obj\Debug\partBproject.pdb
+C:\Users\gilbito\Downloads\13.06 13.00 Gil-20220613T112853Z-001\13.06 14.30 Gil\partBproject\bin\Debug\partBproject.exe.config
+C:\Users\gilbito\Downloads\13.06 13.00 Gil-20220613T112853Z-001\13.06 14.30 Gil\partBproject\bin\Debug\partBproject.exe
+C:\Users\gilbito\Downloads\13.06 13.00 Gil-20220613T112853Z-001\13.06 14.30 Gil\partBproject\bin\Debug\partBproject.pdb
+C:\Users\gilbito\Downloads\13.06 13.00 Gil-20220613T112853Z-001\13.06 14.30 Gil\partBproject\obj\Debug\last12.06_2000.csprojAssemblyReference.cache
+C:\Users\gilbito\Downloads\13.06 13.00 Gil-20220613T112853Z-001\13.06 14.30 Gil\partBproject\obj\Debug\partBproject.createContact.resources
+C:\Users\gilbito\Downloads\13.06 13.00 Gil-20220613T112853Z-001\13.06 14.30 Gil\partBproject\obj\Debug\partBproject.createProject.resources
+C:\Users\gilbito\Downloads\13.06 13.00 Gil-20220613T112853Z-001\13.06 14.30 Gil\partBproject\obj\Debug\partBproject.EnterMeetingTimes.resources
+C:\Users\gilbito\Downloads\13.06 13.00 Gil-20220613T112853Z-001\13.06 14.30 Gil\partBproject\obj\Debug\partBproject.HomePage.resources
+C:\Users\gilbito\Downloads\13.06 13.00 Gil-20220613T112853Z-001\13.06 14.30 Gil\partBproject\obj\Debug\partBproject.Login.resources
+C:\Users\gilbito\Downloads\13.06 13.00 Gil-20220613T112853Z-001\13.06 14.30 Gil\partBproject\obj\Debug\partBproject.Properties.Resources.resources
+C:\Users\gilbito\Downloads\13.06 13.00 Gil-20220613T112853Z-001\13.06 14.30 Gil\partBproject\obj\Debug\partBproject.ScheduleMeeting.resources
+C:\Users\gilbito\Downloads\13.06 13.00 Gil-20220613T112853Z-001\13.06 14.30 Gil\partBproject\obj\Debug\partBproject.UploadCustomerRequset.resources
+C:\Users\gilbito\Downloads\13.06 13.00 Gil-20220613T112853Z-001\13.06 14.30 Gil\partBproject\obj\Debug\last12.06_2000.csproj.GenerateResource.cache
+C:\Users\gilbito\Downloads\13.06 13.00 Gil-20220613T112853Z-001\13.06 14.30 Gil\partBproject\obj\Debug\last12.06_2000.csproj.CoreCompileInputs.cache
+C:\Users\gilbito\Downloads\13.06 13.00 Gil-20220613T112853Z-001\13.06 14.30 Gil\partBproject\obj\Debug\partBproject.exe
+C:\Users\gilbito\Downloads\13.06 13.00 Gil-20220613T112853Z-001\13.06 14.30 Gil\partBproject\obj\Debug\partBproject.pdb
+C:\Users\astar\Downloads\13.06 15.45 Gil-20220613T125536Z-001\13.06 15.45 Gil\partBproject\bin\Debug\partBproject.exe.config
+C:\Users\astar\Downloads\13.06 15.45 Gil-20220613T125536Z-001\13.06 15.45 Gil\partBproject\bin\Debug\partBproject.exe
+C:\Users\astar\Downloads\13.06 15.45 Gil-20220613T125536Z-001\13.06 15.45 Gil\partBproject\bin\Debug\partBproject.pdb
+C:\Users\astar\Downloads\13.06 15.45 Gil-20220613T125536Z-001\13.06 15.45 Gil\partBproject\obj\Debug\last12.06_2000.csprojAssemblyReference.cache
+C:\Users\astar\Downloads\13.06 15.45 Gil-20220613T125536Z-001\13.06 15.45 Gil\partBproject\obj\Debug\partBproject.createContact.resources
+C:\Users\astar\Downloads\13.06 15.45 Gil-20220613T125536Z-001\13.06 15.45 Gil\partBproject\obj\Debug\partBproject.createProject.resources
+C:\Users\astar\Downloads\13.06 15.45 Gil-20220613T125536Z-001\13.06 15.45 Gil\partBproject\obj\Debug\partBproject.EnterMeetingTimes.resources
+C:\Users\astar\Downloads\13.06 15.45 Gil-20220613T125536Z-001\13.06 15.45 Gil\partBproject\obj\Debug\partBproject.HomePage.resources
+C:\Users\astar\Downloads\13.06 15.45 Gil-20220613T125536Z-001\13.06 15.45 Gil\partBproject\obj\Debug\partBproject.Login.resources
+C:\Users\astar\Downloads\13.06 15.45 Gil-20220613T125536Z-001\13.06 15.45 Gil\partBproject\obj\Debug\partBproject.Properties.Resources.resources
+C:\Users\astar\Downloads\13.06 15.45 Gil-20220613T125536Z-001\13.06 15.45 Gil\partBproject\obj\Debug\partBproject.ScheduleMeeting.resources
+C:\Users\astar\Downloads\13.06 15.45 Gil-20220613T125536Z-001\13.06 15.45 Gil\partBproject\obj\Debug\partBproject.UploadCustomerRequset.resources
+C:\Users\astar\Downloads\13.06 15.45 Gil-20220613T125536Z-001\13.06 15.45 Gil\partBproject\obj\Debug\last12.06_2000.csproj.GenerateResource.cache
+C:\Users\astar\Downloads\13.06 15.45 Gil-20220613T125536Z-001\13.06 15.45 Gil\partBproject\obj\Debug\last12.06_2000.csproj.CoreCompileInputs.cache
+C:\Users\astar\Downloads\13.06 15.45 Gil-20220613T125536Z-001\13.06 15.45 Gil\partBproject\obj\Debug\partBproject.exe
+C:\Users\astar\Downloads\13.06 15.45 Gil-20220613T125536Z-001\13.06 15.45 Gil\partBproject\obj\Debug\partBproject.pdb
+C:\Users\gilbito\Downloads\astar 13.6 19_35\astar 13.6 19_35\13.06 15.45 Gil\partBproject\bin\Debug\partBproject.exe.config
+C:\Users\gilbito\Downloads\astar 13.6 19_35\astar 13.6 19_35\13.06 15.45 Gil\partBproject\bin\Debug\partBproject.exe
+C:\Users\gilbito\Downloads\astar 13.6 19_35\astar 13.6 19_35\13.06 15.45 Gil\partBproject\bin\Debug\partBproject.pdb
+C:\Users\gilbito\Downloads\astar 13.6 19_35\astar 13.6 19_35\13.06 15.45 Gil\partBproject\obj\Debug\last12.06_2000.csprojResolveAssemblyReference.cache
+C:\Users\gilbito\Downloads\astar 13.6 19_35\astar 13.6 19_35\13.06 15.45 Gil\partBproject\obj\Debug\partBproject.createContact.resources
+C:\Users\gilbito\Downloads\astar 13.6 19_35\astar 13.6 19_35\13.06 15.45 Gil\partBproject\obj\Debug\partBproject.createProject.resources
+C:\Users\gilbito\Downloads\astar 13.6 19_35\astar 13.6 19_35\13.06 15.45 Gil\partBproject\obj\Debug\partBproject.EnterMeetingTimes.resources
+C:\Users\gilbito\Downloads\astar 13.6 19_35\astar 13.6 19_35\13.06 15.45 Gil\partBproject\obj\Debug\partBproject.HomePage.resources
+C:\Users\gilbito\Downloads\astar 13.6 19_35\astar 13.6 19_35\13.06 15.45 Gil\partBproject\obj\Debug\partBproject.Login.resources
+C:\Users\gilbito\Downloads\astar 13.6 19_35\astar 13.6 19_35\13.06 15.45 Gil\partBproject\obj\Debug\partBproject.Properties.Resources.resources
+C:\Users\gilbito\Downloads\astar 13.6 19_35\astar 13.6 19_35\13.06 15.45 Gil\partBproject\obj\Debug\partBproject.ScheduleMeeting.resources
+C:\Users\gilbito\Downloads\astar 13.6 19_35\astar 13.6 19_35\13.06 15.45 Gil\partBproject\obj\Debug\partBproject.UploadCustomerRequset.resources
+C:\Users\gilbito\Downloads\astar 13.6 19_35\astar 13.6 19_35\13.06 15.45 Gil\partBproject\obj\Debug\last12.06_2000.csproj.GenerateResource.Cache
+C:\Users\gilbito\Downloads\astar 13.6 19_35\astar 13.6 19_35\13.06 15.45 Gil\partBproject\obj\Debug\last12.06_2000.csproj.CoreCompileInputs.cache
+C:\Users\gilbito\Downloads\astar 13.6 19_35\astar 13.6 19_35\13.06 15.45 Gil\partBproject\obj\Debug\partBproject.exe
+C:\Users\gilbito\Downloads\astar 13.6 19_35\astar 13.6 19_35\13.06 15.45 Gil\partBproject\obj\Debug\partBproject.pdb
+C:\Users\gilbito\Downloads\astar 13.6 19_35\astar 13.6 19_35\14.06 19.33 GilMerukaz\partBproject\bin\Debug\partBproject.exe.config
+C:\Users\gilbito\Downloads\astar 13.6 19_35\astar 13.6 19_35\14.06 19.33 GilMerukaz\partBproject\bin\Debug\partBproject.exe
+C:\Users\gilbito\Downloads\astar 13.6 19_35\astar 13.6 19_35\14.06 19.33 GilMerukaz\partBproject\bin\Debug\partBproject.pdb
+C:\Users\gilbito\Downloads\astar 13.6 19_35\astar 13.6 19_35\14.06 19.33 GilMerukaz\partBproject\obj\Debug\last12.06_2000.csprojResolveAssemblyReference.cache
+C:\Users\gilbito\Downloads\astar 13.6 19_35\astar 13.6 19_35\14.06 19.33 GilMerukaz\partBproject\obj\Debug\partBproject.createContact.resources
+C:\Users\gilbito\Downloads\astar 13.6 19_35\astar 13.6 19_35\14.06 19.33 GilMerukaz\partBproject\obj\Debug\partBproject.createProject.resources
+C:\Users\gilbito\Downloads\astar 13.6 19_35\astar 13.6 19_35\14.06 19.33 GilMerukaz\partBproject\obj\Debug\partBproject.EnterMeetingTimes.resources
+C:\Users\gilbito\Downloads\astar 13.6 19_35\astar 13.6 19_35\14.06 19.33 GilMerukaz\partBproject\obj\Debug\partBproject.HomePage.resources
+C:\Users\gilbito\Downloads\astar 13.6 19_35\astar 13.6 19_35\14.06 19.33 GilMerukaz\partBproject\obj\Debug\partBproject.Login.resources
+C:\Users\gilbito\Downloads\astar 13.6 19_35\astar 13.6 19_35\14.06 19.33 GilMerukaz\partBproject\obj\Debug\partBproject.Properties.Resources.resources
+C:\Users\gilbito\Downloads\astar 13.6 19_35\astar 13.6 19_35\14.06 19.33 GilMerukaz\partBproject\obj\Debug\partBproject.ScheduleMeeting.resources
+C:\Users\gilbito\Downloads\astar 13.6 19_35\astar 13.6 19_35\14.06 19.33 GilMerukaz\partBproject\obj\Debug\partBproject.UploadCustomerRequset.resources
+C:\Users\gilbito\Downloads\astar 13.6 19_35\astar 13.6 19_35\14.06 19.33 GilMerukaz\partBproject\obj\Debug\last12.06_2000.csproj.GenerateResource.Cache
+C:\Users\gilbito\Downloads\astar 13.6 19_35\astar 13.6 19_35\14.06 19.33 GilMerukaz\partBproject\obj\Debug\last12.06_2000.csproj.CoreCompileInputs.cache
+C:\Users\gilbito\Downloads\astar 13.6 19_35\astar 13.6 19_35\14.06 19.33 GilMerukaz\partBproject\obj\Debug\partBproject.exe
+C:\Users\gilbito\Downloads\astar 13.6 19_35\astar 13.6 19_35\14.06 19.33 GilMerukaz\partBproject\obj\Debug\partBproject.pdb
+C:\Users\gilbito\Downloads\Gil Sof Yom 14.06 21.33-20220621T065413Z-001\Gil Sof Yom 14.06 21.33\partBproject\bin\Debug\partBproject.exe.config
+C:\Users\gilbito\Downloads\Gil Sof Yom 14.06 21.33-20220621T065413Z-001\Gil Sof Yom 14.06 21.33\partBproject\bin\Debug\partBproject.exe
+C:\Users\gilbito\Downloads\Gil Sof Yom 14.06 21.33-20220621T065413Z-001\Gil Sof Yom 14.06 21.33\partBproject\bin\Debug\partBproject.pdb
+C:\Users\gilbito\Downloads\Gil Sof Yom 14.06 21.33-20220621T065413Z-001\Gil Sof Yom 14.06 21.33\partBproject\obj\Debug\last12.06_2000.csprojResolveAssemblyReference.cache
+C:\Users\gilbito\Downloads\Gil Sof Yom 14.06 21.33-20220621T065413Z-001\Gil Sof Yom 14.06 21.33\partBproject\obj\Debug\partBproject.createContact.resources
+C:\Users\gilbito\Downloads\Gil Sof Yom 14.06 21.33-20220621T065413Z-001\Gil Sof Yom 14.06 21.33\partBproject\obj\Debug\partBproject.createProject.resources
+C:\Users\gilbito\Downloads\Gil Sof Yom 14.06 21.33-20220621T065413Z-001\Gil Sof Yom 14.06 21.33\partBproject\obj\Debug\partBproject.EnterMeetingTimes.resources
+C:\Users\gilbito\Downloads\Gil Sof Yom 14.06 21.33-20220621T065413Z-001\Gil Sof Yom 14.06 21.33\partBproject\obj\Debug\partBproject.HomePage.resources
+C:\Users\gilbito\Downloads\Gil Sof Yom 14.06 21.33-20220621T065413Z-001\Gil Sof Yom 14.06 21.33\partBproject\obj\Debug\partBproject.Login.resources
+C:\Users\gilbito\Downloads\Gil Sof Yom 14.06 21.33-20220621T065413Z-001\Gil Sof Yom 14.06 21.33\partBproject\obj\Debug\partBproject.Properties.Resources.resources
+C:\Users\gilbito\Downloads\Gil Sof Yom 14.06 21.33-20220621T065413Z-001\Gil Sof Yom 14.06 21.33\partBproject\obj\Debug\partBproject.ScheduleMeeting.resources
+C:\Users\gilbito\Downloads\Gil Sof Yom 14.06 21.33-20220621T065413Z-001\Gil Sof Yom 14.06 21.33\partBproject\obj\Debug\partBproject.UploadCustomerRequset.resources
+C:\Users\gilbito\Downloads\Gil Sof Yom 14.06 21.33-20220621T065413Z-001\Gil Sof Yom 14.06 21.33\partBproject\obj\Debug\last12.06_2000.csproj.GenerateResource.Cache
+C:\Users\gilbito\Downloads\Gil Sof Yom 14.06 21.33-20220621T065413Z-001\Gil Sof Yom 14.06 21.33\partBproject\obj\Debug\last12.06_2000.csproj.CoreCompileInputs.cache
+C:\Users\gilbito\Downloads\Gil Sof Yom 14.06 21.33-20220621T065413Z-001\Gil Sof Yom 14.06 21.33\partBproject\obj\Debug\partBproject.exe
+C:\Users\gilbito\Downloads\Gil Sof Yom 14.06 21.33-20220621T065413Z-001\Gil Sof Yom 14.06 21.33\partBproject\obj\Debug\partBproject.pdb
+C:\Users\astar\Downloads\astar 21.6 11.15\21.6 10.30 Gil\partBproject\bin\Debug\partBproject.exe.config
+C:\Users\astar\Downloads\astar 21.6 11.15\21.6 10.30 Gil\partBproject\bin\Debug\partBproject.exe
+C:\Users\astar\Downloads\astar 21.6 11.15\21.6 10.30 Gil\partBproject\bin\Debug\partBproject.pdb
+C:\Users\astar\Downloads\astar 21.6 11.15\21.6 10.30 Gil\partBproject\obj\Debug\partBproject.createContact.resources
+C:\Users\astar\Downloads\astar 21.6 11.15\21.6 10.30 Gil\partBproject\obj\Debug\partBproject.createProject.resources
+C:\Users\astar\Downloads\astar 21.6 11.15\21.6 10.30 Gil\partBproject\obj\Debug\partBproject.EnterMeetingTimes.resources
+C:\Users\astar\Downloads\astar 21.6 11.15\21.6 10.30 Gil\partBproject\obj\Debug\partBproject.HomePage.resources
+C:\Users\astar\Downloads\astar 21.6 11.15\21.6 10.30 Gil\partBproject\obj\Debug\partBproject.Login.resources
+C:\Users\astar\Downloads\astar 21.6 11.15\21.6 10.30 Gil\partBproject\obj\Debug\partBproject.Properties.Resources.resources
+C:\Users\astar\Downloads\astar 21.6 11.15\21.6 10.30 Gil\partBproject\obj\Debug\partBproject.ScheduleMeeting.resources
+C:\Users\astar\Downloads\astar 21.6 11.15\21.6 10.30 Gil\partBproject\obj\Debug\partBproject.UploadCustomerRequset.resources
+C:\Users\astar\Downloads\astar 21.6 11.15\21.6 10.30 Gil\partBproject\obj\Debug\last12.06_2000.csproj.GenerateResource.cache
+C:\Users\astar\Downloads\astar 21.6 11.15\21.6 10.30 Gil\partBproject\obj\Debug\last12.06_2000.csproj.CoreCompileInputs.cache
+C:\Users\astar\Downloads\astar 21.6 11.15\21.6 10.30 Gil\partBproject\obj\Debug\partBproject.exe
+C:\Users\astar\Downloads\astar 21.6 11.15\21.6 10.30 Gil\partBproject\obj\Debug\partBproject.pdb
+C:\Users\astar\Downloads\astar 21.6 11.15\21.6 10.30 Gil\partBproject\obj\Debug\last12.06_2000.csprojResolveAssemblyReference.cache
+C:\Users\astar\Downloads\astar 21.6 11.15\21.6 10.30 Gil\partBproject\obj\Debug\partBproject.addEmployee.resources
+C:\Users\astar\Downloads\astar 21.6 11.15\21.6 10.30 Gil\partBproject\obj\Debug\partBproject.CRUDEmployee.resources
+C:\Users\astar\Downloads\astar 21.6 11.15\21.6 10.30 Gil\partBproject\obj\Debug\partBproject.searchEmployee.resources
+C:\Users\astar\Downloads\astar 21.6 17.00\astar 21.6 17.00\partBproject\bin\Debug\partBproject.exe.config
+C:\Users\astar\Downloads\astar 21.6 17.00\astar 21.6 17.00\partBproject\bin\Debug\partBproject.exe
+C:\Users\astar\Downloads\astar 21.6 17.00\astar 21.6 17.00\partBproject\bin\Debug\partBproject.pdb
+C:\Users\astar\Downloads\astar 21.6 17.00\astar 21.6 17.00\partBproject\obj\Debug\last12.06_2000.csprojAssemblyReference.cache
+C:\Users\astar\Downloads\astar 21.6 17.00\astar 21.6 17.00\partBproject\obj\Debug\partBproject.addEmployee.resources
+C:\Users\astar\Downloads\astar 21.6 17.00\astar 21.6 17.00\partBproject\obj\Debug\partBproject.createContact.resources
+C:\Users\astar\Downloads\astar 21.6 17.00\astar 21.6 17.00\partBproject\obj\Debug\partBproject.createProject.resources
+C:\Users\astar\Downloads\astar 21.6 17.00\astar 21.6 17.00\partBproject\obj\Debug\partBproject.CRUDEmployee.resources
+C:\Users\astar\Downloads\astar 21.6 17.00\astar 21.6 17.00\partBproject\obj\Debug\partBproject.EnterMeetingTimes.resources
+C:\Users\astar\Downloads\astar 21.6 17.00\astar 21.6 17.00\partBproject\obj\Debug\partBproject.HomePage.resources
+C:\Users\astar\Downloads\astar 21.6 17.00\astar 21.6 17.00\partBproject\obj\Debug\partBproject.Login.resources
+C:\Users\astar\Downloads\astar 21.6 17.00\astar 21.6 17.00\partBproject\obj\Debug\partBproject.Properties.Resources.resources
+C:\Users\astar\Downloads\astar 21.6 17.00\astar 21.6 17.00\partBproject\obj\Debug\partBproject.ScheduleMeeting.resources
+C:\Users\astar\Downloads\astar 21.6 17.00\astar 21.6 17.00\partBproject\obj\Debug\partBproject.searchEmployee.resources
+C:\Users\astar\Downloads\astar 21.6 17.00\astar 21.6 17.00\partBproject\obj\Debug\partBproject.UploadCustomerRequset.resources
+C:\Users\astar\Downloads\astar 21.6 17.00\astar 21.6 17.00\partBproject\obj\Debug\last12.06_2000.csproj.GenerateResource.cache
+C:\Users\astar\Downloads\astar 21.6 17.00\astar 21.6 17.00\partBproject\obj\Debug\last12.06_2000.csproj.CoreCompileInputs.cache
+C:\Users\astar\Downloads\astar 21.6 17.00\astar 21.6 17.00\partBproject\obj\Debug\partBproject.exe
+C:\Users\astar\Downloads\astar 21.6 17.00\astar 21.6 17.00\partBproject\obj\Debug\partBproject.pdb
+C:\Users\astar\Downloads\astar 21.6 17.20 lasttt\astar 21.6 17.20 lasttt\partBproject\bin\Debug\partBproject.exe.config
+C:\Users\astar\Downloads\astar 21.6 17.20 lasttt\astar 21.6 17.20 lasttt\partBproject\bin\Debug\partBproject.exe
+C:\Users\astar\Downloads\astar 21.6 17.20 lasttt\astar 21.6 17.20 lasttt\partBproject\bin\Debug\partBproject.pdb
+C:\Users\astar\Downloads\astar 21.6 17.20 lasttt\astar 21.6 17.20 lasttt\partBproject\obj\Debug\last12.06_2000.csprojResolveAssemblyReference.cache
+C:\Users\astar\Downloads\astar 21.6 17.20 lasttt\astar 21.6 17.20 lasttt\partBproject\obj\Debug\partBproject.addEmployee.resources
+C:\Users\astar\Downloads\astar 21.6 17.20 lasttt\astar 21.6 17.20 lasttt\partBproject\obj\Debug\partBproject.addSupplier.resources
+C:\Users\astar\Downloads\astar 21.6 17.20 lasttt\astar 21.6 17.20 lasttt\partBproject\obj\Debug\partBproject.createContact.resources
+C:\Users\astar\Downloads\astar 21.6 17.20 lasttt\astar 21.6 17.20 lasttt\partBproject\obj\Debug\partBproject.createProject.resources
+C:\Users\astar\Downloads\astar 21.6 17.20 lasttt\astar 21.6 17.20 lasttt\partBproject\obj\Debug\partBproject.CRUDEmployee.resources
+C:\Users\astar\Downloads\astar 21.6 17.20 lasttt\astar 21.6 17.20 lasttt\partBproject\obj\Debug\partBproject.CRUDSupplier.resources
+C:\Users\astar\Downloads\astar 21.6 17.20 lasttt\astar 21.6 17.20 lasttt\partBproject\obj\Debug\partBproject.EnterMeetingTimes.resources
+C:\Users\astar\Downloads\astar 21.6 17.20 lasttt\astar 21.6 17.20 lasttt\partBproject\obj\Debug\partBproject.HomePage.resources
+C:\Users\astar\Downloads\astar 21.6 17.20 lasttt\astar 21.6 17.20 lasttt\partBproject\obj\Debug\partBproject.Login.resources
+C:\Users\astar\Downloads\astar 21.6 17.20 lasttt\astar 21.6 17.20 lasttt\partBproject\obj\Debug\partBproject.Properties.Resources.resources
+C:\Users\astar\Downloads\astar 21.6 17.20 lasttt\astar 21.6 17.20 lasttt\partBproject\obj\Debug\partBproject.ScheduleMeeting.resources
+C:\Users\astar\Downloads\astar 21.6 17.20 lasttt\astar 21.6 17.20 lasttt\partBproject\obj\Debug\partBproject.searchEmployee.resources
+C:\Users\astar\Downloads\astar 21.6 17.20 lasttt\astar 21.6 17.20 lasttt\partBproject\obj\Debug\partBproject.UploadCustomerRequset.resources
+C:\Users\astar\Downloads\astar 21.6 17.20 lasttt\astar 21.6 17.20 lasttt\partBproject\obj\Debug\last12.06_2000.csproj.GenerateResource.Cache
+C:\Users\astar\Downloads\astar 21.6 17.20 lasttt\astar 21.6 17.20 lasttt\partBproject\obj\Debug\last12.06_2000.csproj.CoreCompileInputs.cache
+C:\Users\astar\Downloads\astar 21.6 17.20 lasttt\astar 21.6 17.20 lasttt\partBproject\obj\Debug\partBproject.exe
+C:\Users\astar\Downloads\astar 21.6 17.20 lasttt\astar 21.6 17.20 lasttt\partBproject\obj\Debug\partBproject.pdb
+C:\Users\astar\Downloads\astar 21.6 17.20 lasttt\astar 21.6 17.20 lasttt\partBproject\obj\Debug\partBproject.searchSupplier.resources
+C:\Users\astar\Downloads\astar 21.6 17.20 lasttt\astar 21.6 17.20 lasttt\partBproject\obj\Debug\partBproject.addCustomer.resources
+C:\Users\astar\Downloads\astar 21.6 17.20 lasttt\astar 21.6 17.20 lasttt\partBproject\obj\Debug\partBproject.CRUDCustomer.resources
+C:\Users\astar\Downloads\astar 21.6 17.20 lasttt\astar 21.6 17.20 lasttt\partBproject\obj\Debug\partBproject.searchCustomer.resources
+C:\Users\gilbito\Downloads\Gil 22.06 1054\Gil 22.06 1054\partBproject\bin\Debug\partBproject.exe.config
+C:\Users\gilbito\Downloads\Gil 22.06 1054\Gil 22.06 1054\partBproject\bin\Debug\partBproject.exe
+C:\Users\gilbito\Downloads\Gil 22.06 1054\Gil 22.06 1054\partBproject\bin\Debug\partBproject.pdb
+C:\Users\gilbito\Downloads\Gil 22.06 1054\Gil 22.06 1054\partBproject\obj\Debug\last12.06_2000.csprojResolveAssemblyReference.cache
+C:\Users\gilbito\Downloads\Gil 22.06 1054\Gil 22.06 1054\partBproject\obj\Debug\partBproject.addCustomer.resources
+C:\Users\gilbito\Downloads\Gil 22.06 1054\Gil 22.06 1054\partBproject\obj\Debug\partBproject.addEmployee.resources
+C:\Users\gilbito\Downloads\Gil 22.06 1054\Gil 22.06 1054\partBproject\obj\Debug\partBproject.addSupplier.resources
+C:\Users\gilbito\Downloads\Gil 22.06 1054\Gil 22.06 1054\partBproject\obj\Debug\partBproject.createContact.resources
+C:\Users\gilbito\Downloads\Gil 22.06 1054\Gil 22.06 1054\partBproject\obj\Debug\partBproject.createProject.resources
+C:\Users\gilbito\Downloads\Gil 22.06 1054\Gil 22.06 1054\partBproject\obj\Debug\partBproject.CRUDCustomer.resources
+C:\Users\gilbito\Downloads\Gil 22.06 1054\Gil 22.06 1054\partBproject\obj\Debug\partBproject.CRUDEmployee.resources
+C:\Users\gilbito\Downloads\Gil 22.06 1054\Gil 22.06 1054\partBproject\obj\Debug\partBproject.CRUDSupplier.resources
+C:\Users\gilbito\Downloads\Gil 22.06 1054\Gil 22.06 1054\partBproject\obj\Debug\partBproject.EnterMeetingTimes.resources
+C:\Users\gilbito\Downloads\Gil 22.06 1054\Gil 22.06 1054\partBproject\obj\Debug\partBproject.HomePage.resources
+C:\Users\gilbito\Downloads\Gil 22.06 1054\Gil 22.06 1054\partBproject\obj\Debug\partBproject.Login.resources
+C:\Users\gilbito\Downloads\Gil 22.06 1054\Gil 22.06 1054\partBproject\obj\Debug\partBproject.Properties.Resources.resources
+C:\Users\gilbito\Downloads\Gil 22.06 1054\Gil 22.06 1054\partBproject\obj\Debug\partBproject.ScheduleMeeting.resources
+C:\Users\gilbito\Downloads\Gil 22.06 1054\Gil 22.06 1054\partBproject\obj\Debug\partBproject.searchCustomer.resources
+C:\Users\gilbito\Downloads\Gil 22.06 1054\Gil 22.06 1054\partBproject\obj\Debug\partBproject.searchEmployee.resources
+C:\Users\gilbito\Downloads\Gil 22.06 1054\Gil 22.06 1054\partBproject\obj\Debug\partBproject.searchSupplier.resources
+C:\Users\gilbito\Downloads\Gil 22.06 1054\Gil 22.06 1054\partBproject\obj\Debug\partBproject.UploadCustomerRequset.resources
+C:\Users\gilbito\Downloads\Gil 22.06 1054\Gil 22.06 1054\partBproject\obj\Debug\last12.06_2000.csproj.GenerateResource.Cache
+C:\Users\gilbito\Downloads\Gil 22.06 1054\Gil 22.06 1054\partBproject\obj\Debug\last12.06_2000.csproj.CoreCompileInputs.cache
+C:\Users\gilbito\Downloads\Gil 22.06 1054\Gil 22.06 1054\partBproject\obj\Debug\partBproject.exe
+C:\Users\gilbito\Downloads\Gil 22.06 1054\Gil 22.06 1054\partBproject\obj\Debug\partBproject.pdb
+C:\Users\malno\Downloads\Gil 22.06 1054-20220622T121927Z-001\Gil 22.06 1054\Gil 22.06 1054\partBproject\bin\Debug\partBproject.exe.config
+C:\Users\malno\Downloads\Gil 22.06 1054-20220622T121927Z-001\Gil 22.06 1054\Gil 22.06 1054\partBproject\bin\Debug\partBproject.exe
+C:\Users\malno\Downloads\Gil 22.06 1054-20220622T121927Z-001\Gil 22.06 1054\Gil 22.06 1054\partBproject\bin\Debug\partBproject.pdb
+C:\Users\malno\Downloads\Gil 22.06 1054-20220622T121927Z-001\Gil 22.06 1054\Gil 22.06 1054\partBproject\obj\Debug\last12.06_2000.csprojAssemblyReference.cache
+C:\Users\malno\Downloads\Gil 22.06 1054-20220622T121927Z-001\Gil 22.06 1054\Gil 22.06 1054\partBproject\obj\Debug\partBproject.addCustomer.resources
+C:\Users\malno\Downloads\Gil 22.06 1054-20220622T121927Z-001\Gil 22.06 1054\Gil 22.06 1054\partBproject\obj\Debug\partBproject.addEmployee.resources
+C:\Users\malno\Downloads\Gil 22.06 1054-20220622T121927Z-001\Gil 22.06 1054\Gil 22.06 1054\partBproject\obj\Debug\partBproject.addSupplier.resources
+C:\Users\malno\Downloads\Gil 22.06 1054-20220622T121927Z-001\Gil 22.06 1054\Gil 22.06 1054\partBproject\obj\Debug\partBproject.createContact.resources
+C:\Users\malno\Downloads\Gil 22.06 1054-20220622T121927Z-001\Gil 22.06 1054\Gil 22.06 1054\partBproject\obj\Debug\partBproject.createProject.resources
+C:\Users\malno\Downloads\Gil 22.06 1054-20220622T121927Z-001\Gil 22.06 1054\Gil 22.06 1054\partBproject\obj\Debug\partBproject.CRUDCustomer.resources
+C:\Users\malno\Downloads\Gil 22.06 1054-20220622T121927Z-001\Gil 22.06 1054\Gil 22.06 1054\partBproject\obj\Debug\partBproject.CRUDEmployee.resources
+C:\Users\malno\Downloads\Gil 22.06 1054-20220622T121927Z-001\Gil 22.06 1054\Gil 22.06 1054\partBproject\obj\Debug\partBproject.CRUDSupplier.resources
+C:\Users\malno\Downloads\Gil 22.06 1054-20220622T121927Z-001\Gil 22.06 1054\Gil 22.06 1054\partBproject\obj\Debug\partBproject.EnterMeetingTimes.resources
+C:\Users\malno\Downloads\Gil 22.06 1054-20220622T121927Z-001\Gil 22.06 1054\Gil 22.06 1054\partBproject\obj\Debug\partBproject.HomePage.resources
+C:\Users\malno\Downloads\Gil 22.06 1054-20220622T121927Z-001\Gil 22.06 1054\Gil 22.06 1054\partBproject\obj\Debug\partBproject.Login.resources
+C:\Users\malno\Downloads\Gil 22.06 1054-20220622T121927Z-001\Gil 22.06 1054\Gil 22.06 1054\partBproject\obj\Debug\partBproject.Properties.Resources.resources
+C:\Users\malno\Downloads\Gil 22.06 1054-20220622T121927Z-001\Gil 22.06 1054\Gil 22.06 1054\partBproject\obj\Debug\partBproject.ScheduleMeeting.resources
+C:\Users\malno\Downloads\Gil 22.06 1054-20220622T121927Z-001\Gil 22.06 1054\Gil 22.06 1054\partBproject\obj\Debug\partBproject.searchCustomer.resources
+C:\Users\malno\Downloads\Gil 22.06 1054-20220622T121927Z-001\Gil 22.06 1054\Gil 22.06 1054\partBproject\obj\Debug\partBproject.searchEmployee.resources
+C:\Users\malno\Downloads\Gil 22.06 1054-20220622T121927Z-001\Gil 22.06 1054\Gil 22.06 1054\partBproject\obj\Debug\partBproject.searchSupplier.resources
+C:\Users\malno\Downloads\Gil 22.06 1054-20220622T121927Z-001\Gil 22.06 1054\Gil 22.06 1054\partBproject\obj\Debug\partBproject.UploadCustomerRequset.resources
+C:\Users\malno\Downloads\Gil 22.06 1054-20220622T121927Z-001\Gil 22.06 1054\Gil 22.06 1054\partBproject\obj\Debug\last12.06_2000.csproj.GenerateResource.cache
+C:\Users\malno\Downloads\Gil 22.06 1054-20220622T121927Z-001\Gil 22.06 1054\Gil 22.06 1054\partBproject\obj\Debug\last12.06_2000.csproj.CoreCompileInputs.cache
+C:\Users\malno\Downloads\Gil 22.06 1054-20220622T121927Z-001\Gil 22.06 1054\Gil 22.06 1054\partBproject\obj\Debug\partBproject.exe
+C:\Users\malno\Downloads\Gil 22.06 1054-20220622T121927Z-001\Gil 22.06 1054\Gil 22.06 1054\partBproject\obj\Debug\partBproject.pdb
+C:\Users\malno\Downloads\Gil 22.06 1054-20220622T121927Z-001\Noa 22.6 2022\Noa 22.6 2022\partBproject\bin\Debug\partBproject.exe.config
+C:\Users\malno\Downloads\Gil 22.06 1054-20220622T121927Z-001\Noa 22.6 2022\Noa 22.6 2022\partBproject\bin\Debug\partBproject.exe
+C:\Users\malno\Downloads\Gil 22.06 1054-20220622T121927Z-001\Noa 22.6 2022\Noa 22.6 2022\partBproject\bin\Debug\partBproject.pdb
+C:\Users\malno\Downloads\Gil 22.06 1054-20220622T121927Z-001\Noa 22.6 2022\Noa 22.6 2022\partBproject\obj\Debug\last12.06_2000.csprojResolveAssemblyReference.cache
+C:\Users\malno\Downloads\Gil 22.06 1054-20220622T121927Z-001\Noa 22.6 2022\Noa 22.6 2022\partBproject\obj\Debug\partBproject.addCustomer.resources
+C:\Users\malno\Downloads\Gil 22.06 1054-20220622T121927Z-001\Noa 22.6 2022\Noa 22.6 2022\partBproject\obj\Debug\partBproject.addEmployee.resources
+C:\Users\malno\Downloads\Gil 22.06 1054-20220622T121927Z-001\Noa 22.6 2022\Noa 22.6 2022\partBproject\obj\Debug\partBproject.addSupplier.resources
+C:\Users\malno\Downloads\Gil 22.06 1054-20220622T121927Z-001\Noa 22.6 2022\Noa 22.6 2022\partBproject\obj\Debug\partBproject.ApproveScheduleMeeting.resources
+C:\Users\malno\Downloads\Gil 22.06 1054-20220622T121927Z-001\Noa 22.6 2022\Noa 22.6 2022\partBproject\obj\Debug\partBproject.createContact.resources
+C:\Users\malno\Downloads\Gil 22.06 1054-20220622T121927Z-001\Noa 22.6 2022\Noa 22.6 2022\partBproject\obj\Debug\partBproject.createProject.resources
+C:\Users\malno\Downloads\Gil 22.06 1054-20220622T121927Z-001\Noa 22.6 2022\Noa 22.6 2022\partBproject\obj\Debug\partBproject.CRUDCustomer.resources
+C:\Users\malno\Downloads\Gil 22.06 1054-20220622T121927Z-001\Noa 22.6 2022\Noa 22.6 2022\partBproject\obj\Debug\partBproject.CRUDEmployee.resources
+C:\Users\malno\Downloads\Gil 22.06 1054-20220622T121927Z-001\Noa 22.6 2022\Noa 22.6 2022\partBproject\obj\Debug\partBproject.CRUDSupplier.resources
+C:\Users\malno\Downloads\Gil 22.06 1054-20220622T121927Z-001\Noa 22.6 2022\Noa 22.6 2022\partBproject\obj\Debug\partBproject.EnterMeetingTimes.resources
+C:\Users\malno\Downloads\Gil 22.06 1054-20220622T121927Z-001\Noa 22.6 2022\Noa 22.6 2022\partBproject\obj\Debug\partBproject.HomePage.resources
+C:\Users\malno\Downloads\Gil 22.06 1054-20220622T121927Z-001\Noa 22.6 2022\Noa 22.6 2022\partBproject\obj\Debug\partBproject.Login.resources
+C:\Users\malno\Downloads\Gil 22.06 1054-20220622T121927Z-001\Noa 22.6 2022\Noa 22.6 2022\partBproject\obj\Debug\partBproject.Properties.Resources.resources
+C:\Users\malno\Downloads\Gil 22.06 1054-20220622T121927Z-001\Noa 22.6 2022\Noa 22.6 2022\partBproject\obj\Debug\partBproject.ScheduleMeeting.resources
+C:\Users\malno\Downloads\Gil 22.06 1054-20220622T121927Z-001\Noa 22.6 2022\Noa 22.6 2022\partBproject\obj\Debug\partBproject.searchCustomer.resources
+C:\Users\malno\Downloads\Gil 22.06 1054-20220622T121927Z-001\Noa 22.6 2022\Noa 22.6 2022\partBproject\obj\Debug\partBproject.searchEmployee.resources
+C:\Users\malno\Downloads\Gil 22.06 1054-20220622T121927Z-001\Noa 22.6 2022\Noa 22.6 2022\partBproject\obj\Debug\partBproject.searchSupplier.resources
+C:\Users\malno\Downloads\Gil 22.06 1054-20220622T121927Z-001\Noa 22.6 2022\Noa 22.6 2022\partBproject\obj\Debug\partBproject.UploadCustomerRequset.resources
+C:\Users\malno\Downloads\Gil 22.06 1054-20220622T121927Z-001\Noa 22.6 2022\Noa 22.6 2022\partBproject\obj\Debug\last12.06_2000.csproj.GenerateResource.Cache
+C:\Users\malno\Downloads\Gil 22.06 1054-20220622T121927Z-001\Noa 22.6 2022\Noa 22.6 2022\partBproject\obj\Debug\last12.06_2000.csproj.CoreCompileInputs.cache
+C:\Users\malno\Downloads\Gil 22.06 1054-20220622T121927Z-001\Noa 22.6 2022\Noa 22.6 2022\partBproject\obj\Debug\partBproject.exe
+C:\Users\malno\Downloads\Gil 22.06 1054-20220622T121927Z-001\Noa 22.6 2022\Noa 22.6 2022\partBproject\obj\Debug\partBproject.pdb
+C:\Users\gilbito\Downloads\Noa 22.6 22.30-20220623T080755Z-001\Noa 22.6 22.30\Noa 22.6 22.30\partBproject\bin\Debug\partBproject.exe.config
+C:\Users\gilbito\Downloads\Noa 22.6 22.30-20220623T080755Z-001\Noa 22.6 22.30\Noa 22.6 22.30\partBproject\bin\Debug\partBproject.exe
+C:\Users\gilbito\Downloads\Noa 22.6 22.30-20220623T080755Z-001\Noa 22.6 22.30\Noa 22.6 22.30\partBproject\bin\Debug\partBproject.pdb
+C:\Users\gilbito\Downloads\Noa 22.6 22.30-20220623T080755Z-001\Noa 22.6 22.30\Noa 22.6 22.30\partBproject\obj\Debug\last12.06_2000.csprojResolveAssemblyReference.cache
+C:\Users\gilbito\Downloads\Noa 22.6 22.30-20220623T080755Z-001\Noa 22.6 22.30\Noa 22.6 22.30\partBproject\obj\Debug\partBproject.addCustomer.resources
+C:\Users\gilbito\Downloads\Noa 22.6 22.30-20220623T080755Z-001\Noa 22.6 22.30\Noa 22.6 22.30\partBproject\obj\Debug\partBproject.addEmployee.resources
+C:\Users\gilbito\Downloads\Noa 22.6 22.30-20220623T080755Z-001\Noa 22.6 22.30\Noa 22.6 22.30\partBproject\obj\Debug\partBproject.addSupplier.resources
+C:\Users\gilbito\Downloads\Noa 22.6 22.30-20220623T080755Z-001\Noa 22.6 22.30\Noa 22.6 22.30\partBproject\obj\Debug\partBproject.ApproveScheduleMeeting.resources
+C:\Users\gilbito\Downloads\Noa 22.6 22.30-20220623T080755Z-001\Noa 22.6 22.30\Noa 22.6 22.30\partBproject\obj\Debug\partBproject.createContact.resources
+C:\Users\gilbito\Downloads\Noa 22.6 22.30-20220623T080755Z-001\Noa 22.6 22.30\Noa 22.6 22.30\partBproject\obj\Debug\partBproject.createProject.resources
+C:\Users\gilbito\Downloads\Noa 22.6 22.30-20220623T080755Z-001\Noa 22.6 22.30\Noa 22.6 22.30\partBproject\obj\Debug\partBproject.CRUDCustomer.resources
+C:\Users\gilbito\Downloads\Noa 22.6 22.30-20220623T080755Z-001\Noa 22.6 22.30\Noa 22.6 22.30\partBproject\obj\Debug\partBproject.CRUDEmployee.resources
+C:\Users\gilbito\Downloads\Noa 22.6 22.30-20220623T080755Z-001\Noa 22.6 22.30\Noa 22.6 22.30\partBproject\obj\Debug\partBproject.CRUDSupplier.resources
+C:\Users\gilbito\Downloads\Noa 22.6 22.30-20220623T080755Z-001\Noa 22.6 22.30\Noa 22.6 22.30\partBproject\obj\Debug\partBproject.EnterMeetingTimes.resources
+C:\Users\gilbito\Downloads\Noa 22.6 22.30-20220623T080755Z-001\Noa 22.6 22.30\Noa 22.6 22.30\partBproject\obj\Debug\partBproject.HomePage.resources
+C:\Users\gilbito\Downloads\Noa 22.6 22.30-20220623T080755Z-001\Noa 22.6 22.30\Noa 22.6 22.30\partBproject\obj\Debug\partBproject.Login.resources
+C:\Users\gilbito\Downloads\Noa 22.6 22.30-20220623T080755Z-001\Noa 22.6 22.30\Noa 22.6 22.30\partBproject\obj\Debug\partBproject.Properties.Resources.resources
+C:\Users\gilbito\Downloads\Noa 22.6 22.30-20220623T080755Z-001\Noa 22.6 22.30\Noa 22.6 22.30\partBproject\obj\Debug\partBproject.ScheduleMeeting.resources
+C:\Users\gilbito\Downloads\Noa 22.6 22.30-20220623T080755Z-001\Noa 22.6 22.30\Noa 22.6 22.30\partBproject\obj\Debug\partBproject.searchCustomer.resources
+C:\Users\gilbito\Downloads\Noa 22.6 22.30-20220623T080755Z-001\Noa 22.6 22.30\Noa 22.6 22.30\partBproject\obj\Debug\partBproject.searchEmployee.resources
+C:\Users\gilbito\Downloads\Noa 22.6 22.30-20220623T080755Z-001\Noa 22.6 22.30\Noa 22.6 22.30\partBproject\obj\Debug\partBproject.searchSupplier.resources
+C:\Users\gilbito\Downloads\Noa 22.6 22.30-20220623T080755Z-001\Noa 22.6 22.30\Noa 22.6 22.30\partBproject\obj\Debug\partBproject.UploadCustomerRequset.resources
+C:\Users\gilbito\Downloads\Noa 22.6 22.30-20220623T080755Z-001\Noa 22.6 22.30\Noa 22.6 22.30\partBproject\obj\Debug\last12.06_2000.csproj.GenerateResource.Cache
+C:\Users\gilbito\Downloads\Noa 22.6 22.30-20220623T080755Z-001\Noa 22.6 22.30\Noa 22.6 22.30\partBproject\obj\Debug\last12.06_2000.csproj.CoreCompileInputs.cache
+C:\Users\gilbito\Downloads\Noa 22.6 22.30-20220623T080755Z-001\Noa 22.6 22.30\Noa 22.6 22.30\partBproject\obj\Debug\partBproject.exe
+C:\Users\gilbito\Downloads\Noa 22.6 22.30-20220623T080755Z-001\Noa 22.6 22.30\Noa 22.6 22.30\partBproject\obj\Debug\partBproject.pdb
+C:\Users\gilbito\Downloads\Noa 22.6 22.30-20220623T080755Z-001\Noa 22.6 22.30\Noa 22.6 22.30\partBproject\obj\Debug\partBproject.anotherMeetingForm.resources
+C:\Users\malno\Downloads\Project part B -20220623T131125Z-001\Project part B\Noa 22.6 22.30\partBproject\bin\Debug\partBproject.exe.config
+C:\Users\malno\Downloads\Project part B -20220623T131125Z-001\Project part B\Noa 22.6 22.30\partBproject\bin\Debug\partBproject.exe
+C:\Users\malno\Downloads\Project part B -20220623T131125Z-001\Project part B\Noa 22.6 22.30\partBproject\bin\Debug\partBproject.pdb
+C:\Users\malno\Downloads\Project part B -20220623T131125Z-001\Project part B\Noa 22.6 22.30\partBproject\obj\Debug\last12.06_2000.csprojResolveAssemblyReference.cache
+C:\Users\malno\Downloads\Project part B -20220623T131125Z-001\Project part B\Noa 22.6 22.30\partBproject\obj\Debug\partBproject.addCustomer.resources
+C:\Users\malno\Downloads\Project part B -20220623T131125Z-001\Project part B\Noa 22.6 22.30\partBproject\obj\Debug\partBproject.addEmployee.resources
+C:\Users\malno\Downloads\Project part B -20220623T131125Z-001\Project part B\Noa 22.6 22.30\partBproject\obj\Debug\partBproject.addSupplier.resources
+C:\Users\malno\Downloads\Project part B -20220623T131125Z-001\Project part B\Noa 22.6 22.30\partBproject\obj\Debug\partBproject.anotherMeetingForm.resources
+C:\Users\malno\Downloads\Project part B -20220623T131125Z-001\Project part B\Noa 22.6 22.30\partBproject\obj\Debug\partBproject.ApproveScheduleMeeting.resources
+C:\Users\malno\Downloads\Project part B -20220623T131125Z-001\Project part B\Noa 22.6 22.30\partBproject\obj\Debug\partBproject.createContact.resources
+C:\Users\malno\Downloads\Project part B -20220623T131125Z-001\Project part B\Noa 22.6 22.30\partBproject\obj\Debug\partBproject.createProject.resources
+C:\Users\malno\Downloads\Project part B -20220623T131125Z-001\Project part B\Noa 22.6 22.30\partBproject\obj\Debug\partBproject.CRUDCustomer.resources
+C:\Users\malno\Downloads\Project part B -20220623T131125Z-001\Project part B\Noa 22.6 22.30\partBproject\obj\Debug\partBproject.CRUDEmployee.resources
+C:\Users\malno\Downloads\Project part B -20220623T131125Z-001\Project part B\Noa 22.6 22.30\partBproject\obj\Debug\partBproject.CRUDSupplier.resources
+C:\Users\malno\Downloads\Project part B -20220623T131125Z-001\Project part B\Noa 22.6 22.30\partBproject\obj\Debug\partBproject.EnterMeetingTimes.resources
+C:\Users\malno\Downloads\Project part B -20220623T131125Z-001\Project part B\Noa 22.6 22.30\partBproject\obj\Debug\partBproject.HomePage.resources
+C:\Users\malno\Downloads\Project part B -20220623T131125Z-001\Project part B\Noa 22.6 22.30\partBproject\obj\Debug\partBproject.Login.resources
+C:\Users\malno\Downloads\Project part B -20220623T131125Z-001\Project part B\Noa 22.6 22.30\partBproject\obj\Debug\partBproject.Properties.Resources.resources
+C:\Users\malno\Downloads\Project part B -20220623T131125Z-001\Project part B\Noa 22.6 22.30\partBproject\obj\Debug\partBproject.ScheduleMeeting.resources
+C:\Users\malno\Downloads\Project part B -20220623T131125Z-001\Project part B\Noa 22.6 22.30\partBproject\obj\Debug\partBproject.searchCustomer.resources
+C:\Users\malno\Downloads\Project part B -20220623T131125Z-001\Project part B\Noa 22.6 22.30\partBproject\obj\Debug\partBproject.searchEmployee.resources
+C:\Users\malno\Downloads\Project part B -20220623T131125Z-001\Project part B\Noa 22.6 22.30\partBproject\obj\Debug\partBproject.searchSupplier.resources
+C:\Users\malno\Downloads\Project part B -20220623T131125Z-001\Project part B\Noa 22.6 22.30\partBproject\obj\Debug\partBproject.UploadCustomerRequset.resources
+C:\Users\malno\Downloads\Project part B -20220623T131125Z-001\Project part B\Noa 22.6 22.30\partBproject\obj\Debug\last12.06_2000.csproj.GenerateResource.Cache
+C:\Users\malno\Downloads\Project part B -20220623T131125Z-001\Project part B\Noa 22.6 22.30\partBproject\obj\Debug\last12.06_2000.csproj.CoreCompileInputs.cache
+C:\Users\malno\Downloads\Project part B -20220623T131125Z-001\Project part B\Noa 22.6 22.30\partBproject\obj\Debug\partBproject.exe
+C:\Users\malno\Downloads\Project part B -20220623T131125Z-001\Project part B\Noa 22.6 22.30\partBproject\obj\Debug\partBproject.pdb
