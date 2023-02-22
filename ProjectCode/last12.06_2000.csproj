@@ -1,0 +1,331 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{515DABB0-0FEB-439E-BAC4-98FB334A12E4}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>partBproject</RootNamespace>
+    <AssemblyName>partBproject</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Messaging" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="addCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="addCustomer.Designer.cs">
+      <DependentUpon>addCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="addEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="addEmployee.Designer.cs">
+      <DependentUpon>addEmployee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="addSupplier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="addSupplier.Designer.cs">
+      <DependentUpon>addSupplier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="anotherMeetingForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="anotherMeetingForm.Designer.cs">
+      <DependentUpon>anotherMeetingForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Apartment.cs" />
+    <Compile Include="ApproveScheduleMeeting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ApproveScheduleMeeting.Designer.cs">
+      <DependentUpon>ApproveScheduleMeeting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="City.cs" />
+    <Compile Include="Contact.cs" />
+    <Compile Include="ContactStatus.cs" />
+    <Compile Include="createContact.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="createContact.Designer.cs">
+      <DependentUpon>createContact.cs</DependentUpon>
+    </Compile>
+    <Compile Include="createProject.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="createProject.Designer.cs">
+      <DependentUpon>createProject.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CRUDCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CRUDCustomer.Designer.cs">
+      <DependentUpon>CRUDCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CRUDEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CRUDEmployee.Designer.cs">
+      <DependentUpon>CRUDEmployee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CRUDSupplier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CRUDSupplier.Designer.cs">
+      <DependentUpon>CRUDSupplier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Customer.cs" />
+    <Compile Include="CustomerStatus.cs" />
+    <Compile Include="Employee.cs" />
+    <Compile Include="EmployeeRole.cs" />
+    <Compile Include="EnterMeetingTimes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EnterMeetingTimes.Designer.cs">
+      <DependentUpon>EnterMeetingTimes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gender.cs" />
+    <Compile Include="HomePage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HomePage.Designer.cs">
+      <DependentUpon>HomePage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Meeting.cs" />
+    <Compile Include="Proffesion.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Project.cs" />
+    <Compile Include="ProjectStatus.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Request.cs" />
+    <Compile Include="RequestStatus.cs" />
+    <Compile Include="SAD_2DataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SAD_2DataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="SAD_2DataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SAD_2DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="SAD_2DataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SAD_2DataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="SaleStatus.cs" />
+    <Compile Include="ScheduleMeeting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ScheduleMeeting.Designer.cs">
+      <DependentUpon>ScheduleMeeting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="searchCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="searchCustomer.Designer.cs">
+      <DependentUpon>searchCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="searchSupplier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="searchSupplier.Designer.cs">
+      <DependentUpon>searchSupplier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SQL_CON.cs" />
+    <Compile Include="Stage.cs" />
+    <Compile Include="Supplier.cs" />
+    <Compile Include="searchEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="searchEmployee.Designer.cs">
+      <DependentUpon>searchEmployee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UploadCustomerRequset.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UploadCustomerRequset.Designer.cs">
+      <DependentUpon>UploadCustomerRequset.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="addCustomer.resx">
+      <DependentUpon>addCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="addEmployee.resx">
+      <DependentUpon>addEmployee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="addSupplier.resx">
+      <DependentUpon>addSupplier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="anotherMeetingForm.resx">
+      <DependentUpon>anotherMeetingForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ApproveScheduleMeeting.resx">
+      <DependentUpon>ApproveScheduleMeeting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="createContact.resx">
+      <DependentUpon>createContact.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="createProject.resx">
+      <DependentUpon>createProject.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CRUDCustomer.resx">
+      <DependentUpon>CRUDCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CRUDEmployee.resx">
+      <DependentUpon>CRUDEmployee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CRUDSupplier.resx">
+      <DependentUpon>CRUDSupplier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EnterMeetingTimes.resx">
+      <DependentUpon>EnterMeetingTimes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HomePage.resx">
+      <DependentUpon>HomePage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="ScheduleMeeting.resx">
+      <DependentUpon>ScheduleMeeting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="searchCustomer.resx">
+      <DependentUpon>searchCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="searchEmployee.resx">
+      <DependentUpon>searchEmployee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="searchSupplier.resx">
+      <DependentUpon>searchSupplier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UploadCustomerRequset.resx">
+      <DependentUpon>UploadCustomerRequset.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="SAD_2DataSet.xsc">
+      <DependentUpon>SAD_2DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="SAD_2DataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>SAD_2DataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="SAD_2DataSet.xss">
+      <DependentUpon>SAD_2DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="SAD_2DataSet1.xsc">
+      <DependentUpon>SAD_2DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="SAD_2DataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>SAD_2DataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="SAD_2DataSet1.xss">
+      <DependentUpon>SAD_2DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="SAD_2DataSet2.xsc">
+      <DependentUpon>SAD_2DataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="SAD_2DataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>SAD_2DataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="SAD_2DataSet2.xss">
+      <DependentUpon>SAD_2DataSet2.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\עדכני1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Picture9.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\עין פתוחה.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\133921263_3673228852738269_1818083648772070032_n.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\אחרון.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\עיצוב ללא שם %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Picture10.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\עיצוב ללא שם %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Picture11.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
